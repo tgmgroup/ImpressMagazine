@@ -1,0 +1,9 @@
+/* App.css */
+
+/* Import the Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&display=swap');
+
+/* Use the font-family where needed */
+body {
+  font-family: 'Klee One', sans-serif;
+}
